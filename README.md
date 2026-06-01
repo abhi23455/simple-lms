@@ -76,3 +76,15 @@ python test_api.py
 ## Services
 - **Web**: Django application running on Python 3.11.
 - **Database**: PostgreSQL 15 database.
+
+## screenshoot progress 1-3
+- ![weclome page](ssDjangowelcome.png)
+
+- ![Django admin](ssDjangoAdmin.png)
+
+- ![rest api1](<ssREST API.png>)
+
+- ![rest api2](<ssREST API2.png>)
+
+## Author --
+Abhirama Maulana Putra
